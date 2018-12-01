@@ -3,6 +3,6 @@ package helloworld;
 public class helloworld {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("밥뭐먹징");
+		System.out.println("기홍이가괴롭혀요");
 	}
 }
